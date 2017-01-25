@@ -107,6 +107,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="blog.html" />
+    <Content Include="shopping.html" />
     <Content Include="tutorial.html" />
     <Content Include="Web.config" />
   </ItemGroup>
